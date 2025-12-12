@@ -1,13 +1,13 @@
-# Lab 1 – Cybersecurity, DevSecOps and Shift-Left Security (Colab)
+# Cybersecurity, DevSecOps and Shift-Left Security (Colab)
 
-**Author: Pedro Yáñez Meléndez**
+**Author: Pedro Yanez Melendez**
 
-This lab shows how I use Python in Google Colab to study security analytics, DevSecOps and shift-left security.
+This lab shows how I use Python in Google Colab to practice security analytics, DevSecOps and shift-left security.
 I work with synthetic security events and code examples to connect blue team monitoring with secure coding practices.
 
 ## 1. Overview
 
-- Use Python, pandas and scikit-learn to build a small security analytics lab.
+- Use Python, pandas and scikit-learn to build a small security analytics environment.
 - Combine red team vs blue team ideas with DevSecOps and shift-left security.
 - Show how runtime monitoring, anomaly detection and secure coding fit together.
 - Present the results in simple tables that look like a security dashboard.
@@ -100,7 +100,7 @@ These tools are not installed in the notebook, but I use them as real-world refe
   - Schedule a security sprint and improve monitoring.
   - Keep current controls and review regularly.
 
-## 5. Skills demonstrated
+## 5. Skills used
 
 - Use Python and pandas to manipulate and analyze security event data.
 - Design security features and build anomaly detection with scikit-learn.
@@ -109,7 +109,7 @@ These tools are not installed in the notebook, but I use them as real-world refe
 - Connect runtime monitoring with secure coding and CI/CD controls.
 - Communicate complex security ideas in simple and practical language.
 
-## 6. How to run the lab
+## 6. How to run the code
 
 - Open the notebook in Google Colab.
 - Run the cells in order from top to bottom.
